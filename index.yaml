@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  qod-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-02-11T15:55:26.279538+01:00
+    description: A Helm chart for Quote of the Day
+    digest: c8757265a35c30a8a0ed3ec2ece933e8086b5ecb6a66b8c0110d186dec49a367
+    name: qod-app
+    urls:
+    - https://mkeppeler.github.io/qod/qod-app-0.1.1.tgz
+    version: 0.1.1
+generated: 2020-02-11T15:55:26.273967+01:00
